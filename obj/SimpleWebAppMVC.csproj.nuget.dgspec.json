@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mital.patel\\Desktop\\Mital\\.NET\\Task\\mvc-dotnet-v7-proj-2B\\SimpleWebAppMVC\\SimpleWebAppMVC.csproj": {}
+    "C:\\Users\\mital.patel\\Desktop\\Mital\\.NET\\Task\\mvc-dotnet-v7-proj-2B\\DotNet-SimpleWebApp\\SimpleWebAppMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mital.patel\\Desktop\\Mital\\.NET\\Task\\mvc-dotnet-v7-proj-2B\\SimpleWebAppMVC\\SimpleWebAppMVC.csproj": {
+    "C:\\Users\\mital.patel\\Desktop\\Mital\\.NET\\Task\\mvc-dotnet-v7-proj-2B\\DotNet-SimpleWebApp\\SimpleWebAppMVC.csproj": {
       "version": "1.0.4",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mital.patel\\Desktop\\Mital\\.NET\\Task\\mvc-dotnet-v7-proj-2B\\SimpleWebAppMVC\\SimpleWebAppMVC.csproj",
+        "projectUniqueName": "C:\\Users\\mital.patel\\Desktop\\Mital\\.NET\\Task\\mvc-dotnet-v7-proj-2B\\DotNet-SimpleWebApp\\SimpleWebAppMVC.csproj",
         "projectName": "SimpleWebAppMVC",
-        "projectPath": "C:\\Users\\mital.patel\\Desktop\\Mital\\.NET\\Task\\mvc-dotnet-v7-proj-2B\\SimpleWebAppMVC\\SimpleWebAppMVC.csproj",
+        "projectPath": "C:\\Users\\mital.patel\\Desktop\\Mital\\.NET\\Task\\mvc-dotnet-v7-proj-2B\\DotNet-SimpleWebApp\\SimpleWebAppMVC.csproj",
         "packagesPath": "C:\\Users\\mital.patel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mital.patel\\Desktop\\Mital\\.NET\\Task\\mvc-dotnet-v7-proj-2B\\SimpleWebAppMVC\\obj\\",
+        "outputPath": "C:\\Users\\mital.patel\\Desktop\\Mital\\.NET\\Task\\mvc-dotnet-v7-proj-2B\\DotNet-SimpleWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mital.patel\\AppData\\Roaming\\NuGet\\NuGet.Config"
