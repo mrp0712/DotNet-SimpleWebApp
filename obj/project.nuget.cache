@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2XAj/Un1SZk=",
+  "dgSpecHash": "GmAaWkfS/X0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mital.patel\\Desktop\\Mital\\.NET\\Task\\mvc-dotnet-v7-proj-2B\\SimpleWebAppMVC\\SimpleWebAppMVC.csproj",
+  "projectFilePath": "C:\\Users\\mital.patel\\Desktop\\Mital\\.NET\\Task\\mvc-dotnet-v7-proj-2B\\DotNet-SimpleWebApp\\SimpleWebAppMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mital.patel\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mital.patel\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
