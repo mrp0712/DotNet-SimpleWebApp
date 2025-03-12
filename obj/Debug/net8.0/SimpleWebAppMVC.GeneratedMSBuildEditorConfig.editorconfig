@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SimpleWebAppMVC
 build_property.RootNamespace = SimpleWebAppMVC
-build_property.ProjectDir = C:\Users\mital.patel\Desktop\Mital\.NET\Task\mvc-dotnet-v7-proj-2B\SimpleWebAppMVC\
+build_property.ProjectDir = /home/ubuntu/Desktop/mital/DotNet-SimpleWebApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mital.patel\Desktop\Mital\.NET\Task\mvc-dotnet-v7-proj-2B\SimpleWebAppMVC
+build_property.MSBuildProjectDirectory = /home/ubuntu/Desktop/mital/DotNet-SimpleWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mital.patel/Desktop/Mital/.NET/Task/mvc-dotnet-v7-proj-2B/SimpleWebAppMVC/Views/Home/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+[/home/ubuntu/Desktop/mital/DotNet-SimpleWebApp/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mital.patel/Desktop/Mital/.NET/Task/mvc-dotnet-v7-proj-2B/SimpleWebAppMVC/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/ubuntu/Desktop/mital/DotNet-SimpleWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mital.patel/Desktop/Mital/.NET/Task/mvc-dotnet-v7-proj-2B/SimpleWebAppMVC/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/ubuntu/Desktop/mital/DotNet-SimpleWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mital.patel/Desktop/Mital/.NET/Task/mvc-dotnet-v7-proj-2B/SimpleWebAppMVC/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+[/home/ubuntu/Desktop/mital/DotNet-SimpleWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mital.patel/Desktop/Mital/.NET/Task/mvc-dotnet-v7-proj-2B/SimpleWebAppMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/ubuntu/Desktop/mital/DotNet-SimpleWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mital.patel/Desktop/Mital/.NET/Task/mvc-dotnet-v7-proj-2B/SimpleWebAppMVC/Views/Tasks/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcQ3JlYXRlLmNzaHRtbA==
+[/home/ubuntu/Desktop/mital/DotNet-SimpleWebApp/Views/Tasks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mital.patel/Desktop/Mital/.NET/Task/mvc-dotnet-v7-proj-2B/SimpleWebAppMVC/Views/Tasks/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRGVsZXRlLmNzaHRtbA==
+[/home/ubuntu/Desktop/mital/DotNet-SimpleWebApp/Views/Tasks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mital.patel/Desktop/Mital/.NET/Task/mvc-dotnet-v7-proj-2B/SimpleWebAppMVC/Views/Tasks/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRGV0YWlscy5jc2h0bWw=
+[/home/ubuntu/Desktop/mital/DotNet-SimpleWebApp/Views/Tasks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mital.patel/Desktop/Mital/.NET/Task/mvc-dotnet-v7-proj-2B/SimpleWebAppMVC/Views/Tasks/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRWRpdC5jc2h0bWw=
+[/home/ubuntu/Desktop/mital/DotNet-SimpleWebApp/Views/Tasks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mital.patel/Desktop/Mital/.NET/Task/mvc-dotnet-v7-proj-2B/SimpleWebAppMVC/Views/Tasks/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcSW5kZXguY3NodG1s
+[/home/ubuntu/Desktop/mital/DotNet-SimpleWebApp/Views/Tasks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mital.patel/Desktop/Mital/.NET/Task/mvc-dotnet-v7-proj-2B/SimpleWebAppMVC/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/ubuntu/Desktop/mital/DotNet-SimpleWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mital.patel/Desktop/Mital/.NET/Task/mvc-dotnet-v7-proj-2B/SimpleWebAppMVC/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/ubuntu/Desktop/mital/DotNet-SimpleWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

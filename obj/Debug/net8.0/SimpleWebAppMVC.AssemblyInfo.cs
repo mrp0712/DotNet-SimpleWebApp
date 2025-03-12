@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("2018 Adam A. Jammary")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Simple Web App MVC")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.4.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.4+5a5475c3b9313b77ae2d5f01b88d7b60db482f75")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simple Web App MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleWebAppMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.4.0")]
